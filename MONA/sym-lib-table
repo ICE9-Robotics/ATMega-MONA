@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MONA-rescue)(type Legacy)(uri "C:/Users/mnanc/Dropbox (The University of Manchester)/MONA/MONA/MONA-rescue.lib")(options "")(descr ""))
+  (lib (name MONA_Lib)(type Legacy)(uri "C:/Users/mnanc/Dropbox (The University of Manchester)/MONA/MONA/MONA.lib")(options "")(descr ""))
+)
